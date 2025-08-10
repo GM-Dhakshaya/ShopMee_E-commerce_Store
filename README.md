@@ -69,6 +69,14 @@ ecommers_project/
 - **Razorpay/Stripe** - Payment gateways
 - **bcrypt** - Password hashing
 
+## 🤖 AI Tools Used
+
+| Area | Tool Used | Purpose |
+|------|-----------|---------|
+| API Testing | **Postman** + AI Assistant | Designed and executed API test suites, generated automated test cases, simulated mock API responses, and validated request/response payloads for all endpoints |
+| Content/UX Writing | **ChatGPT** | Crafted concise microcopy for UI elements, wrote README documentation, structured user journey flows, and ensured consistent tone and clarity across the project |
+| Debugging & Code Assistance | **ChatGPT** | Diagnosed backend and deployment issues (e.g., Cloud Run startup failures, Cloud SQL connection errors), recommended configuration fixes, and optimized Express route logic |
+
 ## 📋 Prerequisites
 
 - Node.js (>= 18.0.0)
